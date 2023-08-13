@@ -50,11 +50,20 @@ The Real Estate Agent Ranking Website provides the following functionalities:
 
 Here are some screenshots of the Real Estate Agent Ranking Website:
 
-![Screenshot 1](/path/to/screenshot1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](/screenshots/5.png)
+*Login*
 
-![Screenshot 2](/path/to/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](/screenshots/6.png)
+*Registration*
+
+![Screenshot 3](/screenshots/4.png)
+*Main page*
+
+![Screenshot 5](/screenshots/2.png)
+*Reviews page*
+
+![Screenshot 4](/screenshots/1.png)
+*Admin page*
 
 ## Getting Started
 
