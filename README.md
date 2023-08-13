@@ -1,6 +1,6 @@
 # Real Estate Agent Ranking Website
 
-Welcome to the Real Estate Agent Ranking Website project! This platform aims to provide a user-friendly environment for customers to evaluate and rank real estate agents based on their experiences. Users can search for agents, view profiles, read reviews, and contribute their feedback.
+Welcome to the Real Estate Agent Ranking Website project! This platform aims to provide a user-friendly environment for customers to evaluate and rank real estate agents based on their experiences. Users can search for agents, view profiles, read reviews, and contribute their feedback. 
 
 ## Table of Contents
 
